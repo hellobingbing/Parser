@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/ansj_seg-1.4.1-min.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/tree_split-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/YaraParser.jar"/>
+	<classpathentry kind="lib" path="lib/ansj_seg-1.4.1.jar"/>
+	<classpathentry kind="lib" path="mylib/ejml-0.17.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/javax.json-1.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/javax.json-1.0.1.jar" sourcepath="lib/javax.json-1.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jollyday-0.4.7.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.nu.xom-1.2.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
